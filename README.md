@@ -5,7 +5,9 @@ made it because plenty of unemployment time lol
 suggestion for improvement will be appreciated
 
 IMPORTANT
-you need selenium library and googlechrome + related driver before using it
+you need :
+beautifulsoup4
+selenium library and googlechrome + related driver before using it
 dont forget to check to make sure the driver is of suitable version to the browser
 
 direct use by function 
