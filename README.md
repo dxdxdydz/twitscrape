@@ -8,7 +8,8 @@ IMPORTANT
 you need selenium library and googlechrome + related driver before using it
 dont forget to check to make sure the driver is of suitable version to the browser
 
-direct use by function twitscrape(query='',includes=[],excludes=[],n_tweets=500,check_end=False,init_time=6,scroll_pause_time=1)
+direct use by function 
+# twitscrape(query='',includes=[],excludes=[],n_tweets=500,check_end=False,init_time=6,scroll_pause_time=1)
 
   query
   string of word you want to search on twitter
