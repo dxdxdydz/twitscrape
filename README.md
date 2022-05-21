@@ -1,7 +1,9 @@
 # twitscrape
+twitter is an important source of data to conduct sentiment analysis,checking the brand publicity and lots more but lately most of scraping method cant no longer work to scrape twitter so yeah also because plenty of unemployment time (lol) I made this simple extractor 
+
 tweet extractor using python selenium
-will only scrape the latest tweets together with user account
-made it because plenty of unemployment time lol
+will only scrape the latest tweets together with user account for now (can be set to scrape top, trending, and photos on next update..)
+
 suggestion for improvement will be appreciated
 
 IMPORTANT
